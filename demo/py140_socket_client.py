@@ -5,7 +5,7 @@ from socket import *
 from time import ctime
 
 def tcpClient(ip, port):
-    sock = socket.socket(AF_INET, SOCK_STREAM)
+    sock = socket(AF_INET, SOCK_STREAM)
     sock.connect((ip, port))
 
     while True:
