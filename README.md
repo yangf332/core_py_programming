@@ -66,3 +66,7 @@ Python核心编程
 
 ### 其它
 [py210](py210.md)
+
+
+### 参考资料
+[Python yield 使用浅析](http://www.ibm.com/developerworks/cn/opensource/os-cn-python-yield/ "Python yield 使用浅析")
